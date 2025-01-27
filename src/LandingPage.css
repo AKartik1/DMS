@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+    padding: 50px;
+    background-color: #f4f4f4;
+}
+
+.topic-button {
+    margin-top: 20px;
+}
+
+.topic-button button {
+    margin: 10px;
+    padding: 15px 30px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.topic-button button:hover {
+    background-color: #0056b3;
+}

@@ -1,0 +1,8 @@
+.container {
+    padding: 20px;
+}
+
+.instructions-list {
+    list-style-type: none;
+    padding: 0;
+}
